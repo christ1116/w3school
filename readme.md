@@ -102,7 +102,45 @@
 For 60 years, WWF has worked to help people and nature thrive. As the world's leading conservation organization, WWF works in nearly 100 countries. At every level, wew collaborate with people around the world to develop and deliver innovative solutions that protect communities, wilflife, and the places in which they live.
 </blockquote>
 
-<table style="gray">
-  <tr style="pink"> Senin Selasa Rabu</tr>
-  <td style="purple"> 9-5 9-5 9-5 9-5 </td>
+## HTML Comments
+<!-- This is a comment -->
+<p>This is a paragraph.</p>
+<!-- Comments are not displayed in the browser -->
+
+## HTML Links
+<p><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></p>
+
+## HTML Images
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+
+## HTML Tables
+<table style="width:100%">
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
 </table>
+
+## HTML Lists
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol> 
+
