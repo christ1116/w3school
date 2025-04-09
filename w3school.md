@@ -165,8 +165,3 @@ For 60 years, WWF has worked to help people and nature thrive. As the world's le
   <li>Tea</li>
   <li>Milk</li>
 </ol> 
-
-## HTML Block & Inline
-<p>You can use the height and width attributes to specify the size of the iframe:</p>
-
-<iframe src="demo_iframe.htm" height="200" width="300" title="Iframe Example"></iframe>
