@@ -12,7 +12,7 @@
 </body>
 </html>
 
-## HTML Inrtoduction
+## HTML Introduction
 <!DOCTYPE html>
 <html>
 <head>
